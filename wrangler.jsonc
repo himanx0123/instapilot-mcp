@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "instapilot-mcp",
-  "main": "main":"index.ts",
+  "main":"index.ts",
   "compatibility_date": "2026-10-27",
   "compatibility_flags": ["nodejs_compat"],
   "observability": { "enabled": true }
